@@ -11,3 +11,4 @@ fig = plot_ts(ticker)
 st.plotly_chart(fig)
 
 # what???
+# okay???
